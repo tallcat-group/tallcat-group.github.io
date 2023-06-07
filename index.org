@@ -1,0 +1,209 @@
+#+OPTIONS: toc:nil num:nil html-postamble:nil 
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="tallcat.css" />
+
+#+TITLE: Compositional Systems and Methods Group at TalTech
+
+#+ATTR_HTML: :width 75%
+#+CAPTION: From left to right: [[https://ioc.ee/~amar/][Amar Hadzihasanovic]], [[https://mroman42.github.io/][Mario Román]], [[https://elenadilavore.github.io/][Elena Di Lavore]], [[https://www.ioc.ee/~pawel/][Paweł Sobocinski]], [[https://taltech.ee/en/contacts/laboratory-compositional-systems-and-methods/ekaterina-zhuchko][Ekaterina Zhuchko]],  [[https://www.ioc.ee/~cneste/][Chad Nester]], [[http://chanavat.site/][Clémence Chanavat]], [[https://www.ioc.ee/~matt/][Matt Earnshaw]], [[http://tetrapharmakon.github.io/][Fosco Loregian]], [[https://compose.ioc.ee/somelink][Nathan Haydon]], [[https://sites.google.com/view/dianakessler/home][Diana Kessler]], [[https://www.ioc.ee/~ed/][Edward Morehouse]]
+[[./group-photo.png]]
+
+We are supported by the ESF funded Estonian IT Academy research measure (project 2014-2020.4.05.19-0001).
+
+* Current and Upcoming Events
+Death?
+
+[[file:past-seminars.org][(past seminars)]]
+
+* Current and Upcoming Visitors
+
+[[https://weijia.wang/][Weijia Wang]] (20/02/2023 - 21/07/2023)
+
+[[https://lmf.cnrs.fr/Perso/TitouanCarette][Titouan Carette]] (<unknown>)
+
+[[file:past-visits.org][(past visitors)]]
+
+* Courses
+[[https://compose.ioc.ee/courses/2023/functional_programming][Functional Programming]] (ITI0212)
+
+[[https://compose.ioc.ee/CourseCategoryTheory.html][Introduction to Category Theory and its Applications]] (ITI9200)
+
+
+* Publications
+G. Boccali, A. Laretto, F. Loregian, S. Luneia.
+[[https://arxiv.org/abs/2303.03867][_Completeness for Categories of Generalized Automata_.]]
+CALCO 2023.
+
+E. Di Lavore, A. Gianola, M. Román, N. Sabadini, P. Sobociński.
+[[https://link.springer.com/article/10.1007/s10270-023-01092-7][_Span(Graph): a Canonical Feedback Algebra of Open Transition Systems_.]]
+Software and Systems Modelling.
+
+E. Di Lavore, M. Román.
+[[https://arxiv.org/abs/2301.12989][_Evidential Decision Theory via Partial Markov Categories_.]]
+LICS 2023.
+
+E Di Lavore, P. Sobociński.
+[[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACT2022:2296][_Monoidal Width: Capturing Rank Width_.]]
+ACT 2022.
+
+I. Di Liberti, F. Loregian.
+[[https://www.sciencedirect.com/science/article/pii/S0022404922001517?via%3Dihub][_Accessibility and Presentability in 2-categories_.]]
+Journal of Pure and Applied Algebra.
+
+F. Genovese, F. Loregian, D. Palombi.
+_Escrows are Optics_.
+Journal of Financial Technology.
+
+F. Genovese, F. Loregian, C. Puca.
+[[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACT2022:6340][_Fibrational Linguistics: Language Acquisition_.]]
+ACT 2022.
+
+A. Hadzihasanovic, D. Kessler.
+[[https://arxiv.org/abs/2304.09216][_Higher-Dimensional Subdiagram Matching_.]]
+LICS 2023.
+
+A. Hadzihasanovic, D. Kessler.
+[[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACT2022:8210][_Data Structure for Topologically Sound Higher-Dimensional Diagram Rewriting_.]]
+ACT 2022.
+
+F. Loregian, T. Trimble.
+[[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACT2022:4413][_Differential 2-Rigs_.]]
+ACT 2022.
+
+C. Nester.
+[[https://lmcs.episciences.org/10825][_Concurrent Process Histories and Resource Transducers_.]]
+Logical Methods in Computer Science.
+
+G. Boisseau, C. Nester, M. Román.
+[[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACT2022:2037][_Cornering Optics_.]]
+ACT 2022.
+
+M. Román.
+[[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACT2022:3683][_Promonads and String Diagrams for Effectful Categories_.]]
+ACT 2022.
+
+G. Boisseau, P. Sobociński.
+[[https://arxiv.org/abs/2106.07763v2][_String Digrammatic Electrical Circuit Theory_.]]
+ACT 2021.
+
+F. Bonchi, F. Gadducci, A. Kissinger, P. Sobociński, F. Zanasi.
+[[https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/string-diagram-rewrite-theory-ii-rewriting-with-symmetric-monoidal-structure/26B31C77D5ABFE8370B2A4C4589547B4][_String Diagram Rewrite Theory 1: Rewriting with Frobenius Structure_.]]
+Mathematical Structures in Computer Science.
+
+F. Bonchi, F. Gadducci, A. Kissinger, P. Sobociński, F. Zanasi.
+[[https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/string-diagram-rewrite-theory-ii-rewriting-with-symmetric-monoidal-structure/26B31C77D5ABFE8370B2A4C4589547B4][_String Diagram Rewrite Theory 2: Rewriting with Symmetric Monoidal Structure_.]]
+Mathematical Structures in Computer Science.
+
+F. Bonchi, F. Gadducci, A. Kissinger, P. Sobociński, F. Zanasi.
+[[https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/string-diagram-rewrite-theory-iii-confluence-with-and-without-frobenius/F6E1207A100A9F1CFB48FFBAEC785F61][_String Diagram Rewrite Theory 3: Confluence with and without Frobenius_.]]
+Mathematical Structures in Computer Science.
+
+E. Di Lavore, G. De Felice, M. Román.
+[[https://dl.acm.org/doi/10.1145/3531130.3533365][_Monoidal Streams for Dataflow Programming_.]]
+LICS 2022.
+
+M. Earnshaw, P. Sobociński.
+[[https://drops.dagstuhl.de/opus/volltexte/2022/16842/][_Regular Monoidal Languages_.]]
+MFCS 2022.
+
+F. Genovese, F. Loregian, D. Palombi.
+[[https://arxiv.org/abs/2101.09100v3][_A Categorical Semantics for Bounded Petri Nets_.]]
+ACT 2021.
+
+F. Loregian, T. De Oliveira Santos.
+[[https://link.springer.com/article/10.1007/s10485-021-09653-x][_Coends of Higher Arity_.]]
+Applied Categorical Structures.
+
+C. Nester.
+[[https://arxiv.org/abs/2105.04355v2][_Situated Transition Systems_.]]
+ACT 2021.
+
+J. Paixão, L. Rufino, P. Sobociński.
+[[https://www.sciencedirect.com/science/article/pii/S0167642322000247?via%3Dihub][_High-Level Axioms for Graphical Linear Algebra_.]]
+Science of Computer Programming. 
+
+F. Bonchi, A Di Giorgio, P. Sobociński.
+[[https://drops.dagstuhl.de/opus/volltexte/2021/15551/][_Diagrammatic Polyhedral Algebra_.]]
+FSTTCS 2021.
+
+F. Bonchi, R. Piedeleu, P. Sobociński, F. Zanasi.
+[[https://www.sciencedirect.com/science/article/pii/S0890540121000821?via%3Dihub][_Bialgebrais Foundations for the Operational Semantics of String Diagrams_.]]
+Information and Computation.
+
+F. Bonchi, A. Santamaria, J. Seeber, P. Sobociński.
+[[https://drops.dagstuhl.de/opus/volltexte/2021/15365/][_On Doctrines and Cartesian Bicategories_.]]
+CALCO 2021.
+
+F. Bonchi, P. Sobociński, F. Zanasi.
+[[https://link.springer.com/chapter/10.1007/978-3-030-81701-5_2][_A Survey of Compositional Signal Flow Theory_.]]
+Book Chapter.
+
+G. De Felice, E. Di Lavore, M. Román, A. Tuomi.
+[[https://arxiv.org/abs/2005.09439v2][_Functorial Language Games for Question Answering_.]]
+ACT 2020.
+
+E. Di Lavore, A. Gianola, M. Román, N. Sabadini, P. Sobociński.
+[[https://link.springer.com/chapter/10.1007/978-3-030-90636-8_4][_A Canonical Algebra of Open Transition Systems_.]]
+FACS 2021.
+
+E. Di Lavore, J. Hedges, P. Sobociński.
+[[https://drops.dagstuhl.de/opus/volltexte/2021/13464/][_Compositional Modelling of Network Games_.]]
+CSL 2021.
+
+I. Di Liberti, F. Loregian, C. Nester, P. Sobociński.
+[[https://dl.acm.org/doi/10.1145/3434338][_Functorial Semantics for Partial Theories_.]]
+POPL 2021.
+
+F. Genovese, J. Herold, F. Loregian, D. Palombi.
+[[https://arxiv.org/abs/2102.00096v2][_A Categorical Semantics for Hierarchical Petri Nets_.]]
+GCM 2021.
+
+F. Genovese, F. Loregian, D. Palombi.
+[[https://link.springer.com/chapter/10.1007/978-3-030-78946-6_10][_Nets with Mana: a Framework for Chemical Reaction Modelling_.]]
+ICGT 2021.
+
+N. Haydon, A.-V. Pietarinen.
+[[https://link.springer.com/book/10.1007/978-3-030-86062-2][_Residuation in Peirce's Existential Graphs_.]]
+Diagrams 2021.
+
+A. Hadzihasanovic.
+[[https://ieeexplore.ieee.org/document/9470575][_The Smash Product of Monoidal Theories_.]]
+LICS 2021.
+
+F. Loregian.
+[[https://www.cambridge.org/core/books/coend-calculus/C662E90767358B336F17B606D19D8C43][_(Co)end calculus_.]]
+Book.
+
+C. Nester.
+[[https://drops.dagstuhl.de/opus/volltexte/2021/13529/][_A Foundation for Ledger Structures_.]]
+Tokenomics 2020.
+
+C. Nester.
+[[https://link.springer.com/chapter/10.1007/978-3-030-88701-8_22][_A Variety Theorem for Relational Universal Algebra_.]]
+RAMICS 2021.
+
+C. Nester.
+[[https://link.springer.com/chapter/10.1007/978-3-030-78142-2_13][_The Structure of Concurrent Process Histories_.]]
+COORDINATION 2021.
+
+M. Román.
+[[https://arxiv.org/abs/2004.04526v4][_Open Diagrams via Coend Calculus_.]]
+ACT 2020.
+
+N. Behr, P. Sobociński.
+[[https://lmcs.episciences.org/6615][_Rule Algebras for Adhesive Categories_.]]
+Logical Methods in Computer Science.
+
+F. Bonchi, R. Piedeleu, P. Sobociński, F. Zanasi.
+[[https://link.springer.com/chapter/10.1007/978-3-030-45231-5_5][_Contextual Equivalence for Signal Flow Graphs_.]]
+FOSSACS 2020.
+
+N. Haydon, P. Sobociński.
+[[https://link.springer.com/chapter/10.1007/978-3-030-54249-8_32][_Compositional Diagrammatic First-Order Logic_.]]
+Diagrams 2020.
+
+J. Paixão, P. Sobociński.
+[[https://link.springer.com/chapter/10.1007/978-3-030-63882-5_6][_Calculational Proofs in Relational Graphical Linear Algebra_.]]
+SBMF 2020.
+
+
+

@@ -1,0 +1,122 @@
+#+OPTIONS: toc:nil num:nil html-postamble:nil 
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="tallcat.css" />
+
+#+TITLE: Past Seminars at the [[file:index.org][Compositional Systems and Methods Group]]
+
+[[http://nicolasbehr.com/][Nick Behr]]. _Category-Theoretical Rewriting Theory 2.0: On Rule Algebras and Tracelets_. (21/11/2019)
+
+[[https://emorehouse.wescreates.wesleyan.edu/][Ed Morehouse]]. _Double-Categorical Models of Directed Universes_. (12/12/2019)
+
+João de Paixão. _Diagrams in the Classroom_. (30/01/2020)
+
+[[https://erischel.com/][Eigil Rischel]]. _0-1 Laws and Category Theory_. (06/02/2020)
+
+Nathan Haydon. _Compositional Diagrammatic First-Order Logic_. (13/02/2020)
+
+[[http://www.zanasi.com/fabio/][Fabio Zanasi]]. _A Categorical Perspective on Bayseian Resoning_. (20/02/2020)
+
+[[https://julesh.com/][Jules Hedges]]. _Open Games: The Long Road to Practical Applications_. (09/04/2020)
+
+Jens Seeber. _Logical Completeness for String Diagrams_. (23/04/2020)
+
+[[https://personal-homepages.mis.mpg.de/rezaghol/][Sharwin Rezagoli]]. _The Support as a Morphism from Probability to Possibility with an Application to the Entropy Theory of Dynamical Systems_. (14/05/2020)
+
+[[http://mat.uab.es/~kock/][Joachim Kock]]. _Whole-Grain Petri Nets and Processes_. (21/05/2020)
+
+Stephan Spahn. _Reduction of Mixed-Variance Recursion Schemes via Two-Sided Fibrations_. (28/05/2020)
+
+[[https://www.irif.fr/~ahadziha/][Amar Hadzihasanovic]]. _Diagrammatic Sets: Weak Higher Categories for Rewriting_. (11/06/2020)
+
+[[https://www.mansfield.ox.ac.uk/dr-carmen-constantin][Carmen Constantin]]. _Topos Theoretic Perspective on Entropy_. (30/06/2020)
+
+[[https://jdgallag.wordpress.com/][Jonathan Gallagher]]. _Introduction to Differential Categories_. (06/08/2020)
+
+[[https://pages.cpsc.ucalgary.ca/~robin/][Robin Cockett]]. _Fibrations for Partial Maps_. (13/08/2020)
+
+[[https://mysite.science.uottawa.ca/mkarvone/][Martti Karvonen]]. _Towards Categorical Composable Cryptography_. (20/08/2020)
+
+Fabrizio Genovese. _Sigma Nets and Yoneda Hacking: Running Tests Over a Nice Compromise_. (27/08/2020)
+
+[[https://hjmb.co.uk/][Hector Miller-Bakewell]]. _Quantum Graphical Calculi and Their Algebraic Underpinnings_. (03/09/2020)
+
+[[http://piedeleu.com/][Robin Piedeleu]]. _A Diagrammatic Axiomatisation of Finite-State Automata_. (01/10/2020)
+
+[[https://www.dmif.uniud.it/dottorato/dottorandi/davide.castelnovo/][Davide Castelnovo]]. _Equational Theories in an Enriched Context_. (08/10/2020)
+
+[[https://personal.cis.strath.ac.uk/james.wood.100/][James Wood]]. _A Hygeine and Framework for Linear Calculi with Binding_. (22/10/2020)
+
+[[https://diliberti.github.io/][Ivan Di Liberti]]. _Formal Model Theory and Higher Topology_. (29/10/2020)
+
+[[https://thalis.math.upatras.gr/~cvasilak/][Christina Vasilakopoulou]]. _Categorical Semantics of Cyber-Physical Systems_. (05/11/2020)
+
+Evangelia Aleiferi. _Cartesian Double Categories and Profunctors_. (26/11/2020)
+
+[[https://elenadilavore.github.io/][Elena Di Lavore]]. _Compositional Modelling of Network Games_. (21/01/2021)
+
+[[https://www.cs.ox.ac.uk/people/cole.comfort/][Cole Comfort]]. _Categorical Semantics of the ZX-Calculus_. (28/01/2021)
+
+[[https://sites.google.com/view/soichirofujii/][Soichiro Fuji]]. _Algebraic Theories, Bimodels and Gabriel-Ulmer Duality_. (11/02/2021)
+
+[[https://www.jasonparkermath.com/][Jason Parker]]. _Isotropy of Algebraic Theories_. (04/03/2021)
+
+[[https://matteocapucci.wordpress.com/][Matteo Capucci]]. _My Name is Stochastic Calculus by Everybody Calls me Calculus_. (11/03/2021)
+
+[[https://gianola.people.unibz.it/][Alessandro Gianola]]. _Toward a Compositional Verification of Data-Aware Processes via CospanSpan(Graph)_. (25/03/2021)
+
+[[https://www.ioc.ee/~cneste/][Chad Nester]]. _Functorial Semantics for Partial and Relational Theories_. (15/04/2021)
+
+[[http://www.cs.unibo.it/~dallago/][Ugo Dal Lago]]. _On Differential Program Semantics_.(06/05/2021)
+
+Torie Barrett. _Atomic Flows and Normalisation_. (27/05/2021)
+
+[[https://www.brunogavranovic.com/][Bruno Gavranović]]. _Neural Networks Through the Lens of Category Theory_. (03/06/2021)
+
+[[https://ncatlab.org/nlab/show/Todd+Trimble][Todd Trimble]]. _Introduction to Pletheories_. (17/06/2021)
+
+[[https://www.cs.ox.ac.uk/people/giovanni.defelice/][Giovanni De Felice]]. _<Unknown Title>_. (10/10/2021)
+
+[[https://www.cs.ox.ac.uk/people/cole.comfort/][Cole Comfort]]. _A Graphical Calculus for Lagrangian Relations_. (16/10/2021)
+
+[[https://www.ioc.ee/~mroman/][Mario Román]]. _A Canonical Algebra of Open Transition Systems_. (26/10/2021)
+
+[[https://www.ioc.ee/~cneste/][Chad Nester]]. _Material Histories and Proarrow Equipments_. (18/11/2021)
+
+[[https://www.seiller.org/][Thomas Seiller]]. _Linear Realisability, Dynamical Systems and Lower Bounds in Complexity_. (09/12/2021)
+
+[[https://www.dmif.uniud.it/en/phd-courses/imf/phd-students/davide.castelnovo/][Davide Castelnovo]]. _Fuzzy Algebraic Theories_. (27/01/2022)
+
+[[https://tetrapharmakon.github.io/][Fosco Loregian]]. _Fibrational Linguistics 1: First Concepts_. (03/02/2022)
+
+[[https://www.ioc.ee/~mroman/][Mario Román]]. _Premonoidal Streams_. (10/02/2022)
+
+[[https://maaikezwart.com/][Maiike Zwart]]. _Lessons From Failing Distributive Laws_. (10/04/2022)
+
+[[https://www.bmbumpus.com/][Benjamin Bumpus]]. _Spined Categories: Generalising Tree-Width Beyond Graphs_. (17/03/2022)
+
+Tanguy Massacrier. _From Combinatorial Species to General Differential 2-Rigs_. (31/03/2022)
+
+[[https://www.ioc.ee/~cneste/][Chad Nester]]. _On the Tensor Product of Symmetric Monoidal Theories_. (21/04/2022)
+
+[[https://etagreta.github.io/][Greta Coraglia]]. _Coding Deductive Systems Into a 2-Category_. (05/05/2022)
+
+Vladimir Zamdzhiev. _Central Submonads and Notions of Computations_. (05/07/2022)
+
+Gullaume Laplante-Anfossi. _Categorical Coherence, Polytopes, and Koszul Duality_. (17/10/2022)
+
+Mario Román. _Evidential Decision Theory via Partial Markov Categories_. (09/11/2022)
+
+Eigil Rischel. _String Diagrams for Machine Learning_. (24/11/2022)
+
+Félix Loubaton. _The Other Definitions of Strict Omega-Categories_. (12/01/2023)
+
+Matt Earnshaw. _Introduction to the Produoidal Algebra of Process Decomposition_. (02/02/2023)
+
+Mario Román. _The Produoidal Theory of Process Decomposition_. (09/02/2023)
+
+Amar Hadzihasanovic. _Higher-Dimensional Subdiagram Matching_. (16/02/2023)
+
+Fosco Loregian. _Bicategories of Automata, Automata in Bicategories_. (23/02/2023)
+
+Elena Di Lavore. _Evidential Decision Theory via Partial Markov Categories_. (09/03/2023)
+
+Chad Nester and Niels Voorneveld. _Choice and Iteration in the Free Cornering_. (13/04/2023)

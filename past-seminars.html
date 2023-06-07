@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2023-06-07 Wed 14:42 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Past Seminars at the [[file:index.org][Compositional Systems and Methods Group]]</title>
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<link rel="stylesheet" type="text/css" href="tallcat.css" />
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Past Seminars at the <a href="index.html">Compositional Systems and Methods Group</a></h1>
+<p>
+<a href="http://nicolasbehr.com/">Nick Behr</a>. <span class="underline">Category-Theoretical Rewriting Theory 2.0: On Rule Algebras and Tracelets</span>. (21/11/2019)
+</p>
+
+<p>
+<a href="https://emorehouse.wescreates.wesleyan.edu/">Ed Morehouse</a>. <span class="underline">Double-Categorical Models of Directed Universes</span>. (12/12/2019)
+</p>
+
+<p>
+João de Paixão. <span class="underline">Diagrams in the Classroom</span>. (30/01/2020)
+</p>
+
+<p>
+<a href="https://erischel.com/">Eigil Rischel</a>. <span class="underline">0-1 Laws and Category Theory</span>. (06/02/2020)
+</p>
+
+<p>
+Nathan Haydon. <span class="underline">Compositional Diagrammatic First-Order Logic</span>. (13/02/2020)
+</p>
+
+<p>
+<a href="http://www.zanasi.com/fabio/">Fabio Zanasi</a>. <span class="underline">A Categorical Perspective on Bayseian Resoning</span>. (20/02/2020)
+</p>
+
+<p>
+<a href="https://julesh.com/">Jules Hedges</a>. <span class="underline">Open Games: The Long Road to Practical Applications</span>. (09/04/2020)
+</p>
+
+<p>
+Jens Seeber. <span class="underline">Logical Completeness for String Diagrams</span>. (23/04/2020)
+</p>
+
+<p>
+<a href="https://personal-homepages.mis.mpg.de/rezaghol/">Sharwin Rezagoli</a>. <span class="underline">The Support as a Morphism from Probability to Possibility with an Application to the Entropy Theory of Dynamical Systems</span>. (14/05/2020)
+</p>
+
+<p>
+<a href="http://mat.uab.es/~kock/">Joachim Kock</a>. <span class="underline">Whole-Grain Petri Nets and Processes</span>. (21/05/2020)
+</p>
+
+<p>
+Stephan Spahn. <span class="underline">Reduction of Mixed-Variance Recursion Schemes via Two-Sided Fibrations</span>. (28/05/2020)
+</p>
+
+<p>
+<a href="https://www.irif.fr/~ahadziha/">Amar Hadzihasanovic</a>. <span class="underline">Diagrammatic Sets: Weak Higher Categories for Rewriting</span>. (11/06/2020)
+</p>
+
+<p>
+<a href="https://www.mansfield.ox.ac.uk/dr-carmen-constantin">Carmen Constantin</a>. <span class="underline">Topos Theoretic Perspective on Entropy</span>. (30/06/2020)
+</p>
+
+<p>
+<a href="https://jdgallag.wordpress.com/">Jonathan Gallagher</a>. <span class="underline">Introduction to Differential Categories</span>. (06/08/2020)
+</p>
+
+<p>
+<a href="https://pages.cpsc.ucalgary.ca/~robin/">Robin Cockett</a>. <span class="underline">Fibrations for Partial Maps</span>. (13/08/2020)
+</p>
+
+<p>
+<a href="https://mysite.science.uottawa.ca/mkarvone/">Martti Karvonen</a>. <span class="underline">Towards Categorical Composable Cryptography</span>. (20/08/2020)
+</p>
+
+<p>
+Fabrizio Genovese. <span class="underline">Sigma Nets and Yoneda Hacking: Running Tests Over a Nice Compromise</span>. (27/08/2020)
+</p>
+
+<p>
+<a href="https://hjmb.co.uk/">Hector Miller-Bakewell</a>. <span class="underline">Quantum Graphical Calculi and Their Algebraic Underpinnings</span>. (03/09/2020)
+</p>
+
+<p>
+<a href="http://piedeleu.com/">Robin Piedeleu</a>. <span class="underline">A Diagrammatic Axiomatisation of Finite-State Automata</span>. (01/10/2020)
+</p>
+
+<p>
+<a href="https://www.dmif.uniud.it/dottorato/dottorandi/davide.castelnovo/">Davide Castelnovo</a>. <span class="underline">Equational Theories in an Enriched Context</span>. (08/10/2020)
+</p>
+
+<p>
+<a href="https://personal.cis.strath.ac.uk/james.wood.100/">James Wood</a>. <span class="underline">A Hygeine and Framework for Linear Calculi with Binding</span>. (22/10/2020)
+</p>
+
+<p>
+<a href="https://diliberti.github.io/">Ivan Di Liberti</a>. <span class="underline">Formal Model Theory and Higher Topology</span>. (29/10/2020)
+</p>
+
+<p>
+<a href="https://thalis.math.upatras.gr/~cvasilak/">Christina Vasilakopoulou</a>. <span class="underline">Categorical Semantics of Cyber-Physical Systems</span>. (05/11/2020)
+</p>
+
+<p>
+Evangelia Aleiferi. <span class="underline">Cartesian Double Categories and Profunctors</span>. (26/11/2020)
+</p>
+
+<p>
+<a href="https://elenadilavore.github.io/">Elena Di Lavore</a>. <span class="underline">Compositional Modelling of Network Games</span>. (21/01/2021)
+</p>
+
+<p>
+<a href="https://www.cs.ox.ac.uk/people/cole.comfort/">Cole Comfort</a>. <span class="underline">Categorical Semantics of the ZX-Calculus</span>. (28/01/2021)
+</p>
+
+<p>
+<a href="https://sites.google.com/view/soichirofujii/">Soichiro Fuji</a>. <span class="underline">Algebraic Theories, Bimodels and Gabriel-Ulmer Duality</span>. (11/02/2021)
+</p>
+
+<p>
+<a href="https://www.jasonparkermath.com/">Jason Parker</a>. <span class="underline">Isotropy of Algebraic Theories</span>. (04/03/2021)
+</p>
+
+<p>
+<a href="https://matteocapucci.wordpress.com/">Matteo Capucci</a>. <span class="underline">My Name is Stochastic Calculus by Everybody Calls me Calculus</span>. (11/03/2021)
+</p>
+
+<p>
+<a href="https://gianola.people.unibz.it/">Alessandro Gianola</a>. <span class="underline">Toward a Compositional Verification of Data-Aware Processes via CospanSpan(Graph)</span>. (25/03/2021)
+</p>
+
+<p>
+<a href="https://www.ioc.ee/~cneste/">Chad Nester</a>. <span class="underline">Functorial Semantics for Partial and Relational Theories</span>. (15/04/2021)
+</p>
+
+<p>
+<a href="http://www.cs.unibo.it/~dallago/">Ugo Dal Lago</a>. <span class="underline">On Differential Program Semantics</span>.(06/05/2021)
+</p>
+
+<p>
+Torie Barrett. <span class="underline">Atomic Flows and Normalisation</span>. (27/05/2021)
+</p>
+
+<p>
+<a href="https://www.brunogavranovic.com/">Bruno Gavranović</a>. <span class="underline">Neural Networks Through the Lens of Category Theory</span>. (03/06/2021)
+</p>
+
+<p>
+<a href="https://ncatlab.org/nlab/show/Todd+Trimble">Todd Trimble</a>. <span class="underline">Introduction to Pletheories</span>. (17/06/2021)
+</p>
+
+<p>
+<a href="https://www.cs.ox.ac.uk/people/giovanni.defelice/">Giovanni De Felice</a>. <span class="underline">&lt;Unknown Title&gt;</span>. (10/10/2021)
+</p>
+
+<p>
+<a href="https://www.cs.ox.ac.uk/people/cole.comfort/">Cole Comfort</a>. <span class="underline">A Graphical Calculus for Lagrangian Relations</span>. (16/10/2021)
+</p>
+
+<p>
+<a href="https://www.ioc.ee/~mroman/">Mario Román</a>. <span class="underline">A Canonical Algebra of Open Transition Systems</span>. (26/10/2021)
+</p>
+
+<p>
+<a href="https://www.ioc.ee/~cneste/">Chad Nester</a>. <span class="underline">Material Histories and Proarrow Equipments</span>. (18/11/2021)
+</p>
+
+<p>
+<a href="https://www.seiller.org/">Thomas Seiller</a>. <span class="underline">Linear Realisability, Dynamical Systems and Lower Bounds in Complexity</span>. (09/12/2021)
+</p>
+
+<p>
+<a href="https://www.dmif.uniud.it/en/phd-courses/imf/phd-students/davide.castelnovo/">Davide Castelnovo</a>. <span class="underline">Fuzzy Algebraic Theories</span>. (27/01/2022)
+</p>
+
+<p>
+<a href="https://tetrapharmakon.github.io/">Fosco Loregian</a>. <span class="underline">Fibrational Linguistics 1: First Concepts</span>. (03/02/2022)
+</p>
+
+<p>
+<a href="https://www.ioc.ee/~mroman/">Mario Román</a>. <span class="underline">Premonoidal Streams</span>. (10/02/2022)
+</p>
+
+<p>
+<a href="https://maaikezwart.com/">Maiike Zwart</a>. <span class="underline">Lessons From Failing Distributive Laws</span>. (10/04/2022)
+</p>
+
+<p>
+<a href="https://www.bmbumpus.com/">Benjamin Bumpus</a>. <span class="underline">Spined Categories: Generalising Tree-Width Beyond Graphs</span>. (17/03/2022)
+</p>
+
+<p>
+Tanguy Massacrier. <span class="underline">From Combinatorial Species to General Differential 2-Rigs</span>. (31/03/2022)
+</p>
+
+<p>
+<a href="https://www.ioc.ee/~cneste/">Chad Nester</a>. <span class="underline">On the Tensor Product of Symmetric Monoidal Theories</span>. (21/04/2022)
+</p>
+
+<p>
+<a href="https://etagreta.github.io/">Greta Coraglia</a>. <span class="underline">Coding Deductive Systems Into a 2-Category</span>. (05/05/2022)
+</p>
+
+<p>
+Vladimir Zamdzhiev. <span class="underline">Central Submonads and Notions of Computations</span>. (05/07/2022)
+</p>
+
+<p>
+Gullaume Laplante-Anfossi. <span class="underline">Categorical Coherence, Polytopes, and Koszul Duality</span>. (17/10/2022)
+</p>
+
+<p>
+Mario Román. <span class="underline">Evidential Decision Theory via Partial Markov Categories</span>. (09/11/2022)
+</p>
+
+<p>
+Eigil Rischel. <span class="underline">String Diagrams for Machine Learning</span>. (24/11/2022)
+</p>
+
+<p>
+Félix Loubaton. <span class="underline">The Other Definitions of Strict Omega-Categories</span>. (12/01/2023)
+</p>
+
+<p>
+Matt Earnshaw. <span class="underline">Introduction to the Produoidal Algebra of Process Decomposition</span>. (02/02/2023)
+</p>
+
+<p>
+Mario Román. <span class="underline">The Produoidal Theory of Process Decomposition</span>. (09/02/2023)
+</p>
+
+<p>
+Amar Hadzihasanovic. <span class="underline">Higher-Dimensional Subdiagram Matching</span>. (16/02/2023)
+</p>
+
+<p>
+Fosco Loregian. <span class="underline">Bicategories of Automata, Automata in Bicategories</span>. (23/02/2023)
+</p>
+
+<p>
+Elena Di Lavore. <span class="underline">Evidential Decision Theory via Partial Markov Categories</span>. (09/03/2023)
+</p>
+
+<p>
+Chad Nester and Niels Voorneveld. <span class="underline">Choice and Iteration in the Free Cornering</span>. (13/04/2023)
+</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+#+OPTIONS: toc:nil num:nil html-postamble:nil 
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="tallcat.css" />
+
+#+TITLE: Past Visitors to the [[file:index.org][Compositional Systems and Methods Group]]
+
+[[http://nicolasbehr.com/][Nicolas Behr]] (11/2019)
+
+[[https://www.joaopaixao.com/][João Paixão]] (01/2020)
+
+[[https://erischel.com/][Eigil Rischel]] (02/2020)
+
+[[http://www.zanasi.com/fabio][Fabio Zanasi]] (02/2020)
+
+[[https://www.cs.ox.ac.uk/people/cole.comfort/][Cole Comfort]] (09/2021 - 01/2022)
+
+[[https://www.cs.ox.ac.uk/people/giovanni.defelice/][Giovanni De Felice]] (06/09/2021 - 13/09/2021)
+
+Tanguy Massacrier (11/2021 - 03/2022)
+
+[[https://www.cs.ox.ac.uk/people/guillaume.boisseau/][Guillaume Boisseau]] (06/12/2021 - 06/18/2021)
+
+[[https://mysite.science.uottawa.ca/mkarvone/][Martti Karvonen]] (13/12/2021 - 05/01/2022)
+
+[[https://www.dmif.uniud.it/en/phd-courses/imf/phd-students/davide.castelnovo/][Davide Castelnovo]] (22/01/2022 - 28/05/2022)
+
+[[https://maaikezwart.com/][Maaike Zwart]] (07/03/2022 - 20/03/2022)
+
+[[https://etagreta.github.io/][Greta Coraglia]] (06/2022)
+
+[[https://benjaminmerlinbumpus.github.io/][Benjamin Bumpus]] (01/10/2022 - 09/10/2022)
+
+[[https://existence.property/][Zoltan Kocsis]] (01/10/2022 - 09/10/2022)
+
+[[https://sites.google.com/view/jadeedenstarmaster/][Jade Master]] (01/10/2022 - 09/10/2022)
+
+[[https://www.math.univ-paris13.fr/~laplante-anfossi/][Guillaume Laplante-Anfossi]] (10/2022)
+
+[[https://erischel.com/][Eigil Rischel]] (When?)
+
+[[https://math.unice.fr/laboratoire/fiche&id=992.html][Félix Loubaton]] (01/2023)
+
+[[http://iqst.ca/people/peoplepage.php?id=499][Priyaa Srinivasan]] (02/2023)
+
+[[https://weijia.wang/][Weijia Wang]] (20/02/2023 - 21/07/2023)
+
+
