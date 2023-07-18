@@ -1,0 +1,34 @@
+#+title: Walters Tribute
+#+OPTIONS: toc:nil num:nil html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="tallcat.css" />
+
+We prepared a tribute session to the work of Bob Walters, Monday 17th July 2023 at the Tallinn Teachers' House (Tallinna Õpetajate Maja), Raekoja Plats 14, Tallinn.
+
+** Invited speakers
+ - **Nicoletta Sabadini**, University of Insubria in Como.
+ - **Alessandro Di Giorgio**, University of Pisa.
+
+** Local speakers
+
+ - **Elena Di Lavore**. /Towards Markov Bicategories./
+ - **Matt Earnshaw**. /Enrichment in Bicategories./
+ - **Fosco Loregian**. /Street-Walters Yoneda structures./
+ - **Chad Nester**. /Categorical Accounting and Resource-Theoretic Constraints on Open Systems./
+ - **Mario Román**. /Timing Processes./
+ - **Pawel Sobocinski**. /Petri nets and Span(Graph)./
+
+** List of participants
+
+ - Alessandro Di Giorgio, University of Pisa.
+ - Nicoletta Sabadini, University of Insubria.
+ - Ülo Reimaa, University of Tartu.
+ - Chad Nester.
+ - Matt Earnshaw.
+ - Michele De Pascalis.
+ - Andrea Laretto.
+ - Diana Kessler.
+ - Elena Di Lavore.
+ - Mario Román.
+ - Pawel Sobocinski.
+ - Amar Hadzihasanovic.
+ - Fosco Loregian.
