@@ -73,7 +73,7 @@ Torie Barrett. _Atomic Flows and Normalisation_. (27/05/2021)
 
 [[https://ncatlab.org/nlab/show/Todd+Trimble][Todd Trimble]]. _Introduction to Pletheories_. (17/06/2021)
 
-[[https://www.cs.ox.ac.uk/people/giovanni.defelice/][Giovanni De Felice]]. _<Unknown Title>_. (10/10/2021)
+[[https://www.cs.ox.ac.uk/people/giovanni.defelice/][Giovanni De Felice]]. _Categorical Tools for Natural Language Processing_. (10/10/2021)
 
 [[https://www.cs.ox.ac.uk/people/cole.comfort/][Cole Comfort]]. _A Graphical Calculus for Lagrangian Relations_. (16/10/2021)
 
